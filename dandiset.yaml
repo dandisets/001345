@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -19,17 +20,25 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-02-23T20:00:55.817407+00:00'
-description: Retrograde tracers (CTB or retrobeads) were injected in specific subdivisions
-  of the mouse medial geniculate nucleus
+description: 'Retrograde tracers (CTB or retrobeads) were injected in specific subdivisions
+  of the mouse medial geniculate nucleus. Images were taken from the ipsilateral inferior
+  colliculus. The experiments correspond to the data reported in manuscript PMID:
+  39829930'
+ethicsApproval: []
 id: DANDI:001345/draft
 identifier: DANDI:001345
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001345/versions/draft/assets/
 name: MGN retrograde tracer injection
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
+studyTarget: []
 url: https://dandiarchive.org/dandiset/001345/draft
 version: draft
+wasGeneratedBy: []
