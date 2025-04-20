@@ -11,8 +11,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: MGN retrograde tracer injection (2025). (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001345/draft
+citation: MGN retrograde tracing (2025). (Version draft) [Data set]. DANDI Archive.
+  https://dandiarchive.org/dandiset/001345/draft
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -27,18 +27,15 @@ description: 'Retrograde tracers (CTB or retrobeads) were injected in specific s
 ethicsApproval: []
 id: DANDI:001345/draft
 identifier: DANDI:001345
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001345/versions/draft/assets/
-name: MGN retrograde tracer injection
-protocol: []
+name: MGN retrograde tracing
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001345/draft
 version: draft
 wasGeneratedBy: []
