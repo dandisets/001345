@@ -11,8 +11,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: MGN retrograde tracing (2025). (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001345/draft
+citation: 'Cortical Circuits for the integration of short-latency auditory pathways:
+  MGN retrograde tracing (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001345/draft'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -31,7 +31,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001345/versions/draft/assets/
-name: MGN retrograde tracing
+name: 'Cortical Circuits for the integration of short-latency auditory pathways: MGN
+  retrograde tracing'
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
