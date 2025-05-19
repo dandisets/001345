@@ -40,6 +40,16 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: RF1NS128873
+  name: National Institute on Deafness and Other Communication Disorders
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01DC017516
+  name: 'National Institute on Deafness and Other Communication Disorders '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2025-02-23T20:00:55.817407+00:00'
 description: 'Retrograde tracers were injected in specific subdivisions of the mouse
   medial geniculate nucleus. Images were taken from the ipsilateral inferior colliculus.
