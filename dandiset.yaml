@@ -51,6 +51,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-02-23T20:00:55.817407+00:00'
+datePublished: '2025-05-21T23:44:29.877205+00:00'
 description: 'Retrograde tracers were injected in specific subdivisions of the mouse
   medial geniculate nucleus. Images were taken from the ipsilateral inferior colliculus.
   The experiments correspond to the data reported in manuscript PMID: 39829930'
@@ -63,6 +64,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001345/versions/draft/assets/
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: MGN
   retrograde tracing'
+publishedBy:
+  endDate: '2025-05-21T23:44:29.877205+00:00'
+  id: urn:uuid:2eff8f08-4496-4934-876e-536658fe1c3f
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-05-21T23:44:29.877205+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6f43ed5e-47a0-4182-b9a4-c0217d3ec1e9
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
